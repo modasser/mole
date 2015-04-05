@@ -1,6 +1,11 @@
+# git remote add origin https://github.com/modasser/mole
+
+
 git clone https://github.com/modasser/mole
 
-git remote add origin https://github.com/modasser/mole
 
+git add .
+
+git commit -m "modass"
 
 git push origin master
